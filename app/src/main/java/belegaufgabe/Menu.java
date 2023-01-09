@@ -3,10 +3,10 @@ package belegaufgabe;
 public class Menu {
     static void mainMenuInterface() {
         System.out.println("*****************************************************");
-        System.out.println("**Belegaufgabe Algorithmen und Datenstrukturen     **");
         System.out.println("**                                                 **");
-        System.out.println("**Furniture List Manager     by Billy Kid Andersson**");
-        System.out.println("**                              Matrikelnr: 0585550**");
+        System.out.println("**                                                 **");
+        System.out.println("**             Furniture List Manager              **");
+        System.out.println("**                                                 **");
         System.out.println("*****************************************************");
         System.out.println("Furniture List Manager Main Menu");
         System.out.println(" 1. Add Furniture Item");
